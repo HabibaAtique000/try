@@ -22,6 +22,10 @@
 #   2. Python v2.5 or Python v2.6
 #   3. Python v3.0
 # Fill in your answer in the next line of code ("1", "2", or "3"):
+//used by HabibaAtique
+//edited by Habiba Atique
+// Start
+//Artificial Intelligence
 
 ANSWER_1 = 2
 
@@ -29,7 +33,10 @@ ANSWER_1 = 2
 # Section 2: Programming warmup _____________________________________________
 
 # Problem 2.1: Warm-Up Stretch
-
+def square(x):
+	x*x
+def add(x,y):
+	x+y
 def cube(x):
     return x*x*x
 
